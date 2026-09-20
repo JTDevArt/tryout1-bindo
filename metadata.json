@@ -1,0 +1,8 @@
+{
+  "name": "tryout1-bindo",
+  "description": "Platform Belajar dan Tryout Bahasa Indonesia SD Kelas 4, 5, dan 6 lengkap dengan materi, flashcards, latihan interaktif, tryout 50 soal, dan AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
